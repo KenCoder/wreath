@@ -14,7 +14,10 @@
     "react-ui/node_modules"
   ],
   "dependencies": {
-    "express": "^4.14.1"
+    "body-parser": "^1.16.1",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
   },
   "repository": {
     "type": "git",
